@@ -13,7 +13,7 @@ import com.rajasharan.layout.RearrangeableLayout;
 
 public class MainActivity extends ActionBarActivity {
     private static final String TAG = "DEMO-REARRANGEABLE-LOUT";
-    private RearrangeableLayout root;
+    private RearrangeableLayout root; //oestatcvbcv
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
